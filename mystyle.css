@@ -5,6 +5,8 @@
   margin-bottom: 25mm;
   margin-left: 15mm;
 
+background: yellow;
+
   @bottom-left {
     content: counter(page);
   }
